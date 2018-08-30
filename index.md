@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# My Favorite Things about Purdue CS193
+- Good Teachers/TAs
+- Easy (At least for now) class
+- Starts gentle :)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,10 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# My Favorite Things about Purdue CS193
-- Good Teachers/TAs
-- Easy (At least for now) class
-- Starts gentle :)
+
 ### Header 3
 
 - Bulleted
